@@ -1,0 +1,10 @@
+C:\Projects\Leturz\IANews\bin\Debug\netcoreapp2.0\IANews.deps.json
+C:\Projects\Leturz\IANews\bin\Debug\netcoreapp2.0\IANews.runtimeconfig.json
+C:\Projects\Leturz\IANews\bin\Debug\netcoreapp2.0\IANews.runtimeconfig.dev.json
+C:\Projects\Leturz\IANews\bin\Debug\netcoreapp2.0\IANews.dll
+C:\Projects\Leturz\IANews\bin\Debug\netcoreapp2.0\IANews.pdb
+C:\Projects\Leturz\IANews\obj\Debug\netcoreapp2.0\IANews.csproj.CoreCompileInputs.cache
+C:\Projects\Leturz\IANews\obj\Debug\netcoreapp2.0\IANews.AssemblyInfoInputs.cache
+C:\Projects\Leturz\IANews\obj\Debug\netcoreapp2.0\IANews.AssemblyInfo.cs
+C:\Projects\Leturz\IANews\obj\Debug\netcoreapp2.0\IANews.dll
+C:\Projects\Leturz\IANews\obj\Debug\netcoreapp2.0\IANews.pdb
